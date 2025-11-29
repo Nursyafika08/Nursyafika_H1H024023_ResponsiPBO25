@@ -1,0 +1,38 @@
+[
+    {
+        "pokemon": "Jigglypuff",
+        "type": "Fairy",
+        "training_type": "attack",
+        "intensity": 5,
+        "level_before": 1,
+        "level_after": 2,
+        "hp_before": 50,
+        "hp_after": 60,
+        "special_move_desc": "Jigglypuff sings a soothing lullaby! (Puts opponent to sleep + small heal)",
+        "timestamp": "2025-11-29 07:24:24"
+    },
+    {
+        "pokemon": "Jigglypuff",
+        "type": "Fairy",
+        "training_type": "defense",
+        "intensity": 10,
+        "level_before": 1,
+        "level_after": 2,
+        "hp_before": 50,
+        "hp_after": 83,
+        "special_move_desc": "Jigglypuff sings a soothing lullaby! (Puts opponent to sleep + small heal) Bonus: calming aura heals +3 HP.",
+        "timestamp": "2025-11-29 07:24:33"
+    },
+    {
+        "pokemon": "Jigglypuff",
+        "type": "Fairy",
+        "training_type": "speed",
+        "intensity": 15,
+        "level_before": 1,
+        "level_after": 3,
+        "hp_before": 50,
+        "hp_after": 75,
+        "special_move_desc": "Jigglypuff sings a soothing lullaby! (Puts opponent to sleep + small heal) Bonus: calming aura heals +3 HP.",
+        "timestamp": "2025-11-29 07:24:44"
+    }
+]
