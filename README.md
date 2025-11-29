@@ -41,7 +41,7 @@ File history.php menampilkan seluruh data latihan yang pernah dilakukan.
 File data_handler.php & sessions.json mengelola penyimpanan dan pembacaan JSON.
 
 # Konsep OOP yang Digunakan
-Encapsulation digunakan untuk melindungi atribut Pokémon.  
+Encapsulation digunakan untuk melindungi atribut Pokemon.  
 Inheritance digunakan melalui class FairyPokemon.  
 Polymorphism diterapkan lewat override specialMove.  
 Abstraction ada pada penyembunyian proses training di method train.
