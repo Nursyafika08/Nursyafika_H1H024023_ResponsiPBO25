@@ -34,11 +34,11 @@ Aplikasi PokeCare dibuat menggunakan PHP Native dengan konsep OOP.
 Pengguna dapat melihat informasi Pokemon, melakukan latihan, dan melihat riwayat latihan yang disimpan ke dalam file JSON.
 
 # Penjelasan Kode
-Class Pokemon menyimpan atribut dasar Pokemon dan method train untuk menaikkan level dan HP.  
-Class FairyPokemon mewarisi dari Pokemon dan mengoverride specialMove sesuai karakter Jigglypuff.  
+Class Pokemon.php menyimpan atribut dasar Pokemon dan method train untuk menaikkan level dan HP.  
+Class FairyPokemon.php mewarisi dari Pokemon dan mengoverride specialMove sesuai karakter Jigglypuff.  
 File latihan.php mengatur proses latihan dan menyimpan hasilnya.  
 File history.php menampilkan seluruh data latihan yang pernah dilakukan.  
-File data_handler.php mengelola penyimpanan dan pembacaan JSON.
+File data_handler.php & sessions.json mengelola penyimpanan dan pembacaan JSON.
 
 # Konsep OOP yang Digunakan
 Encapsulation digunakan untuk melindungi atribut Pokémon.  
