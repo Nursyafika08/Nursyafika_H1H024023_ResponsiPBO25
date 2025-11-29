@@ -1,32 +1,36 @@
-# Responsi Praktikum PBO – PokéCare
+# Responsi Praktikum PBO – PokeCare
 
 # Data Diri
-Nama       : Nur Syafika  
+Nama       : Nursyafika  
 NIM        : H1H024023  
 Shift Awal : C
 Shift Akhir: A
 
-# Pokémon
-Saya mendapatkan Pokémon Jigglypuff yang bertipe Fairy.  
+# Pokemon
+Saya mendapatkan Pokemon Jigglypuff yang bertipe Fairy.  
 Jigglypuff memiliki kemampuan spesial berupa lullaby yang membuat lawan tertidur.
 
 # Struktur Folder Project
-Nursyafika_H1H024023_ResponsiPBO25  
- ├── index.php  
- ├── latihan.php  
- ├── history.php  
- ├── README.md  
- ├── classes  
- │     ├── Pokemon.php  
- │     └── FairyPokemon.php  
- ├── data  
- │     ├── data_handler.php  
- │     └── sessions.json  
- └── assets  
-       └── style.css  
+Nursyafika_H1H024023_ResponsiPBO25/
+├── assets/
+│   ├── style.css
+│   └── video.gif
+│
+├── classes/
+│   ├── Pokemon.php
+│   └── FairyPokemon.php
+│
+├── data/
+│   ├── data_handler.php
+│   └── sessions.json
+│
+├── history.php
+├── index.php
+├── latihan.php
+└── README.md 
 
 # Penjelasan Aplikasi
-Aplikasi PokéCare dibuat menggunakan PHP Native dengan konsep OOP.  
+Aplikasi PokeCare dibuat menggunakan PHP Native dengan konsep OOP.  
 Pengguna dapat melihat informasi Pokémon, melakukan latihan, dan melihat riwayat latihan yang disimpan ke dalam file JSON.
 
 # Penjelasan Kode
